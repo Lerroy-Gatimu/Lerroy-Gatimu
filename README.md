@@ -1,4 +1,4 @@
-# Hi there, I'm Lerroy Gatimu 👋
+# Hi there, I'm Lerroy Gatimu 
 
 ### Data Engineer | Backend Developer | AWS Certified
 
@@ -8,11 +8,11 @@ I build **data platforms, ETL/ELT pipelines, cloud infrastructure, and high-perf
 
 My work focuses on designing systems that are **reliable, scalable, maintainable, and production-ready**.
 
-🎯 **Open to Data Engineering and Backend Engineering opportunities.**
+**Open to Data Engineering and Backend Engineering opportunities.**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 Building production-grade data engineering solutions
 - ☁️ AWS Certified Solutions Architect – Associate & Cloud Practitioner
