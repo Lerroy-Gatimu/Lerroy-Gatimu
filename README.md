@@ -1,4 +1,4 @@
-# Hi there, I'm Lerroy Gatimu 
+# Lerroy Gatimu 
 
 ### Data Engineer | Backend Developer | AWS Certified
 
