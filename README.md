@@ -1,8 +1,7 @@
 # Lerroy Gatimu 
 
 ### Data Engineer | Backend Developer | AWS Certified
-
-📍 Nairobi, Kenya
+Nairobi, Kenya
 
 I build **data platforms, ETL/ELT pipelines, cloud infrastructure, and high-performance backend systems** using **Python, Rust, and Go**.
 
@@ -150,70 +149,6 @@ Features
 
 ---
 
-# Professional Experience
-
-## Data Analyst & Engineer
-**Merca Jewellery**
-
-- Built the company's first analytics platform
-- Automated sales reporting
-- Developed business dashboards
-- Created inventory and payment reconciliation reports
-
----
-
-## AWS Lead Volunteer Mentor
-**ALX Africa**
-
-- Mentored **200+ learners**
-- Guided AWS CCP and SAA-C03 preparation
-- Conducted architecture reviews
-- Delivered technical mentoring sessions
-
----
-
-# Certifications
-
-🏅 AWS Certified Solutions Architect – Associate (SAA-C03)
-
-🏅 AWS Certified Cloud Practitioner
-
-🏅 ALX Africa Data Analytics
-
----
-
-# Education
-
-**ALX Africa**
-
-- Software Engineering
-- Cloud Computing
-- Data Analytics
-
----
-
-# GitHub Stats
-
-![Lerroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
----
-
-# Currently Exploring
-
-- Modern Data Platforms
-- Lakehouse Architectures
-- Apache Iceberg
-- Apache Kafka
-- Rust Data Engineering
-- Cloud Infrastructure
-- AI-powered Data Pipelines
-
----
-
 # Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://lerroy-gatimu.github.io/lerroy_gatimu/)
@@ -222,6 +157,4 @@ Features
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:lerroygatimu@gmail.com)
 
----
 
-> *"Building reliable systems that transform raw data into meaningful insights."*
