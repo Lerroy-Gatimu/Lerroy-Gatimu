@@ -13,12 +13,12 @@ My work focuses on designing systems that are **reliable, scalable, maintainable
 
 ## About Me
 
-- 🔭 Building production-grade data engineering solutions
-- ☁️ AWS Certified Solutions Architect – Associate & Cloud Practitioner
-- 🦀 Passionate about high-performance systems in Rust
-- 🐍 Experienced with Python for backend development and data engineering
-- 📊 Enjoy designing ETL pipelines and modern data warehouses
-- 🌍 Based in Nairobi, Kenya
+- Building production-grade data engineering solutions
+- AWS Certified Solutions Architect – Associate & Cloud Practitioner
+- Passionate about high-performance systems in Rust
+- Experienced with Python for backend development and data engineering
+- Enjoy designing ETL pipelines and modern data warehouses
+- Based in Nairobi, Kenya
 
 ---
 
